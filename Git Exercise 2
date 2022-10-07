@@ -1,0 +1,90 @@
+Last login: Thu Oct  6 23:50:17 on ttys000
+anjalibhomia@Anjalis-MBP ~ % cd desktop
+anjalibhomia@Anjalis-MBP desktop % cd LearnToCode
+anjalibhomia@Anjalis-MBP LearnToCode % 
+anjalibhomia@Anjalis-MBP LearnToCode % ls
+Git-Exercises	VirtualWorld	Workbook1
+anjalibhomia@Anjalis-MBP LearnToCode % cd VirtualWorld
+anjalibhomia@Anjalis-MBP VirtualWorld % ls
+Animals	Foods	Parks
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks
+anjalibhomia@Anjalis-MBP Parks % ls
+Califiornia	Florida		Iowa		Texas
+anjalibhomia@Anjalis-MBP Parks % mkdir Ohio
+anjalibhomia@Anjalis-MBP Parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parls
+cd: no such file or directory: Parls
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks
+anjalibhomia@Anjalis-MBP Parks % ls
+Califiornia	Florida		Iowa		Ohio		Texas
+anjalibhomia@Anjalis-MBP Parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Foods
+anjalibhomia@Anjalis-MBP Foods % cd Mexican
+anjalibhomia@Anjalis-MBP Mexican % touch Enchilada.txt
+anjalibhomia@Anjalis-MBP Mexican % cd ..
+anjalibhomia@Anjalis-MBP Foods % cd Mexican
+anjalibhomia@Anjalis-MBP Mexican % ls
+Burrito.txt		Enchilada.txt		Taco.txt
+Chile Rellano.txt	Guacamole and Chips.txt
+anjalibhomia@Anjalis-MBP Mexican % cd .
+anjalibhomia@Anjalis-MBP Mexican % cd ..
+anjalibhomia@Anjalis-MBP Foods % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks
+anjalibhomia@Anjalis-MBP Parks % ls
+Califiornia	Florida		Iowa		Ohio		Texas
+anjalibhomia@Anjalis-MBP Parks % mkdir NewYork
+anjalibhomia@Anjalis-MBP Parks % cd NewYork
+anjalibhomia@Anjalis-MBP NewYork % touch BatteryPark.txt
+anjalibhomia@Anjalis-MBP NewYork % touch CityHall.txt
+anjalibhomia@Anjalis-MBP NewYork % touch DuanePark.txt
+anjalibhomia@Anjalis-MBP NewYork % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd NewYork
+anjalibhomia@Anjalis-MBP NewYork % ls
+BatteryPark.txt	CityHall.txt	DuanePark.txt
+anjalibhomia@Anjalis-MBP NewYork % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Animals
+anjalibhomia@Anjalis-MBP Animals % cd Pets
+anjalibhomia@Anjalis-MBP Pets % ls
+Cat.txt		Dog.txt		Parrot.txt
+anjalibhomia@Anjalis-MBP Pets % touch Iguana.txt
+anjalibhomia@Anjalis-MBP Pets % cd ..
+anjalibhomia@Anjalis-MBP Animals % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks 
+anjalibhomia@Anjalis-MBP Parks % mkdir Iowa
+mkdir: Iowa: File exists
+anjalibhomia@Anjalis-MBP Parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks
+anjalibhomia@Anjalis-MBP Parks % ls
+Califiornia	Iowa		Ohio
+Florida		NewYork		Texas
+anjalibhomia@Anjalis-MBP Parks % cd Iowa
+anjalibhomia@Anjalis-MBP Iowa % touch Stonepark.txt
+anjalibhomia@Anjalis-MBP Iowa % touch ClearLakePark.txt
+anjalibhomia@Anjalis-MBP Iowa % touch WalnutPark.txt
+anjalibhomia@Anjalis-MBP Iowa % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd Iowa
+anjalibhomia@Anjalis-MBP Iowa % ls
+ClearLakePark.txt	Stonepark.txt		WalnutPark.txt
+anjalibhomia@Anjalis-MBP Iowa % pwd
+/Users/anjalibhomia/desktop/LearnToCode/VirtualWorld/Parks/Iowa
+anjalibhomia@Anjalis-MBP Iowa % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd Ohio
+anjalibhomia@Anjalis-MBP Ohio % ls    
+anjalibhomia@Anjalis-MBP Ohio % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd Iowa
+anjalibhomia@Anjalis-MBP Iowa % ls
+ClearLakePark.txt	Stonepark.txt		WalnutPark.txt
+anjalibhomia@Anjalis-MBP Iowa % rm -r git all .
+rm: "." and ".." may not be removed
+rm: git: No such file or directory
+rm: all: No such file or directory
+anjalibhomia@Anjalis-MBP Iowa % pwd
+/Users/anjalibhomia/desktop/LearnToCode/VirtualWorld/Parks/Iowa
+anjalibhomia@Anjalis-MBP Iowa % rm ClearLakePark.txt
+anjalibhomia@Anjalis-MBP Iowa % rm Walnutpark.txt
+anjalibhomia@Anjalis-MBP Iowa % rm StonePark.txt
+anjalibhomia@Anjalis-MBP Iowa % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd Iowa
+anjalibhomia@Anjalis-MBP Iowa % ls
+anjalibhomia@Anjalis-MBP Iowa % 
