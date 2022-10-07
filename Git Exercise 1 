@@ -1,0 +1,78 @@
+Last login: Thu Oct  6 23:45:39 on ttys000
+anjalibhomia@Anjalis-MBP ~ % cd desktop
+anjalibhomia@Anjalis-MBP desktop % cd LearNtocode
+anjalibhomia@Anjalis-MBP LearNtocode % pwd
+/Users/anjalibhomia/desktop/LearNtocode
+anjalibhomia@Anjalis-MBP LearNtocode % cd LearnToCode
+cd: no such file or directory: LearnToCode
+anjalibhomia@Anjalis-MBP LearNtocode % cd ..
+anjalibhomia@Anjalis-MBP desktop % cd LearnToCode
+anjalibhomia@Anjalis-MBP LearnToCode % pwd
+/Users/anjalibhomia/desktop/LearnToCode
+anjalibhomia@Anjalis-MBP LearnToCode % ls
+Git-Exercises	VirtualWorld	Workbook1
+anjalibhomia@Anjalis-MBP LearnToCode % cd VirtualWorld
+anjalibhomia@Anjalis-MBP VirtualWorld % ls
+Animals	Foods	Parks
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Foods
+anjalibhomia@Anjalis-MBP Foods % ls
+BBQ	Mexican
+anjalibhomia@Anjalis-MBP Foods % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Animals
+anjalibhomia@Anjalis-MBP Animals % ls
+Farm	Pets
+anjalibhomia@Anjalis-MBP Animals % Cd Pets
+anjalibhomia@Anjalis-MBP Animals % ls
+Farm	Pets
+anjalibhomia@Anjalis-MBP Animals % cd Pets
+anjalibhomia@Anjalis-MBP Pets % ls
+Cat.txt		Dog.txt		Iguana.txt	Parrot.txt
+anjalibhomia@Anjalis-MBP Pets % cd ..
+anjalibhomia@Anjalis-MBP Animals % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Parks
+anjalibhomia@Anjalis-MBP Parks % cd Califiornia
+anjalibhomia@Anjalis-MBP Califiornia % pwd
+/Users/anjalibhomia/desktop/LearnToCode/VirtualWorld/Parks/Califiornia
+anjalibhomia@Anjalis-MBP Califiornia % ls
+Joshua Tree National Park.txt		Sequoia National Park.txt
+Point Reyes National Seashore.txt	Yosemite National Park.txt
+Redwood National Park.txt
+anjalibhomia@Anjalis-MBP Califiornia % cd ..
+anjalibhomia@Anjalis-MBP Parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd foods
+anjalibhomia@Anjalis-MBP foods % cd BBQ
+anjalibhomia@Anjalis-MBP BBQ % ls
+Brisket.txt	Ribs.txt	Sausage.txt
+anjalibhomia@Anjalis-MBP BBQ % cd ..
+anjalibhomia@Anjalis-MBP foods % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Animals
+anjalibhomia@Anjalis-MBP Animals % ls
+Farm	Pets
+anjalibhomia@Anjalis-MBP Animals % cd Farm 
+anjalibhomia@Anjalis-MBP Farm % ls
+Buffalo.txt	Cow.txt		Goat.txt	Pig.txt		Sheep.txt
+anjalibhomia@Anjalis-MBP Farm % cd ..
+anjalibhomia@Anjalis-MBP Animals % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd Foods
+anjalibhomia@Anjalis-MBP Foods % cd Mexican
+anjalibhomia@Anjalis-MBP Mexican % ls
+Burrito.txt		Enchilada.txt		Taco.txt
+Chile Rellano.txt	Guacamole and Chips.txt
+anjalibhomia@Anjalis-MBP Mexican % cd ..
+anjalibhomia@Anjalis-MBP Foods % cd..
+zsh: command not found: cd..
+anjalibhomia@Anjalis-MBP Foods % pwd
+/Users/anjalibhomia/desktop/LearnToCode/VirtualWorld/Foods
+anjalibhomia@Anjalis-MBP Foods % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd parks
+anjalibhomia@Anjalis-MBP parks % cd Texas
+anjalibhomia@Anjalis-MBP Texas % ls
+Big Bend National Park.txt		Mineral Wells State Park.txt
+Big Bend State Park.txt			Padre Island National Seashore.txt
+Enchanted Rock State Park.txt
+anjalibhomia@Anjalis-MBP Texas % cd ..
+anjalibhomia@Anjalis-MBP parks % cd ..
+anjalibhomia@Anjalis-MBP VirtualWorld % cd ..
+anjalibhomia@Anjalis-MBP LearnToCode % ls
+Git-Exercises	VirtualWorld	Workbook1
+anjalibhomia@Anjalis-MBP LearnToCode % 
